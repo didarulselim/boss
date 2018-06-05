@@ -2,8 +2,8 @@ body {
         font-family: sans-serif;
 }
 .home {
-	background-color: #fff;
-	padding-bottom: 40px;
+    background-color: #fff;
+    padding-bottom: 40px;
 }
 
 .brandlogo {
@@ -15,27 +15,28 @@ body {
 }
 
 .products img {
-    width: 60%;
+    width: 50%;
     float: left;
-    height: 564px;
+    height: 500px;
 }
 
-.products { 
-	height: 564px;
-	text-align: center;
+.products {
+    width: 100%;
+    height: 520px;
+    text-align: center;
 }
 
 .products h1 {
     text-align: center;
     font-size: 56px;
     width: 40%;
-    float: right;
+    float: left;
     margin: 0;
     font-weight: 900;
     text-transform: uppercase;
-    padding-bottom: 40px;
-    padding-top: 120px;
-	font-family: sans-serif;
+    padding-bottom: 25px;
+    padding-top: 90px;
+    padding-left: 25px;
 }
 
 a.boss-btn {
@@ -45,6 +46,9 @@ a.boss-btn {
     padding: 15px 100px;
     text-transform: uppercase;
     font-size: 40px;
+    float: left;
+    width: 260px;
+    margin: auto 45px;
     text-decoration: none;
 }
 
@@ -53,10 +57,8 @@ a.boss-btn {
 }
 
 .product-video p {
-    text-transform: uppercase;
-    font-size: 24px;
+    text-transform: capitalize;
+    font-size: 28px;
     line-height: 1.3;
-	font-family: sans-serif;
 }
-
 
