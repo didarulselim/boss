@@ -50,6 +50,7 @@ a.boss-btn {
     width: 260px;
     margin: auto 45px;
     text-decoration: none;
+    border-radius: 5px;
 }
 a.boss-btn:hover {
     
