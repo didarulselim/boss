@@ -1,3 +1,6 @@
+body {
+        font-family: sans-serif;
+}
 .home {
 	background-color: #fff;
 	padding-bottom: 40px;
@@ -14,6 +17,7 @@
 .products img {
     width: 60%;
     float: left;
+    height: 564px;
 }
 
 .products { 
@@ -27,9 +31,11 @@
     width: 40%;
     float: right;
     margin: 0;
+    font-weight: 900;
     text-transform: uppercase;
     padding-bottom: 40px;
     padding-top: 120px;
+	font-family: sans-serif;
 }
 
 a.boss-btn {
@@ -50,6 +56,7 @@ a.boss-btn {
     text-transform: uppercase;
     font-size: 24px;
     line-height: 1.3;
+	font-family: sans-serif;
 }
 
 
