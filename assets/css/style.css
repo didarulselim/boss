@@ -1,0 +1,63 @@
+body {
+        font-family: sans-serif;
+}
+.home {
+    background-color: #fff;
+    padding-bottom: 40px;
+}
+
+.brandlogo {
+    text-align: center;
+}
+
+.brandlogo img {
+    height: 120px;
+}
+
+.products img {
+    width: 604px;
+    float: left;
+    height: 500px;
+}
+
+.products {
+    width: 100%;
+    height: 520px;
+    text-align: center;
+}
+
+.products h1 {
+    text-align: center;
+    font-size: 56px;
+    width: 492px;
+    float: left;
+    margin: 0;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+    padding-top: 90px;
+    padding-left: 25px;
+}
+
+a.boss-btn {
+    text-align: center;
+    color: #fff;
+    background-color: #f3dd30;
+    padding: 15px 100px;
+    text-transform: uppercase;
+    font-size: 40px;
+    float: left;
+    width: 260px;
+    margin: auto 45px;
+    text-decoration: none;
+}
+
+.product-video {
+    text-align: center;
+}
+
+.product-video p {
+    text-transform: capitalize;
+    font-size: 28px;
+    line-height: 1.3;
+}
