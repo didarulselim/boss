@@ -51,6 +51,10 @@ a.boss-btn {
     margin: auto 45px;
     text-decoration: none;
 }
+a.boss-btn:hover {
+    
+    background-color: #000000;
+}
 
 .product-video {
     text-align: center;
